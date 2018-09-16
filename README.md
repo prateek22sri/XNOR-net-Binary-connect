@@ -10,3 +10,4 @@ Two hardware implementation of a feed-forward Convolutional Neural Network
 + The scope of our project is only defined for the implementation of the fully connected layer after the convolutions have been done
 
 For more information [click here](https://github.com/prateek22sri/XNOR-net-Binary-connect/blob/master/XNOR-NET.pdf)
+ 
